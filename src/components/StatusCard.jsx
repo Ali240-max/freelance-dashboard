@@ -49,7 +49,7 @@ function StatusCard({
           ) : (
             <TrendingDown className="" />
           )}
-          <span>+{change}</span>
+          <span>{change}</span>
         </div>
       </div>
       <div
